@@ -37,7 +37,7 @@ p{
 main{
     justify-content: center;
     display: flex;
-    background-image: url(images/backdrop.jpeg);
+    background-image: url(backdrop.jpeg);
     background-size: cover;
     margin: auto;
     text-align: center;
